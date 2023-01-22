@@ -32,8 +32,8 @@
   "components.downloadReleasesTable.docs": "დოკუმენტაცია",
   "componets.header.buttons.toggleLanguage": "Toggle Language",
   "components.header.buttons.toggleDarkMode": "გადართვა მუქ/ნათელ რეჟიმზე",
-  "components.pagination.next": "Newer | ",
-  "components.pagination.previous": "Older",
+  "components.pagination.next": "შემდეგი | ",
+  "components.pagination.previous": "წინა",
   "layouts.blogPost.author.byLine": "{author, select, null {} other {By {author}, }}",
   "layouts.blogIndex.currentYear": "News from {year}"
 }
